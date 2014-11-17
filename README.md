@@ -8,6 +8,9 @@ PhoneBook
 * iOS访问会打开App Store;
 
 ```  
+<!-- 需要绑定的dom -->
+<a href="javascript:;" id="shareDownloadButton">我也要分析通话记录</a>
+
 //参数配置
 var shareDownloadOption = {
     
